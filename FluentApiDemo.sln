@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentApiDemo", "FluentApiDemo.csproj", "{71EE63FD-1F0F-45C5-AE27-38E88F959F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityInfoDemo", "..\EntityInfoDemo\EntityInfoDemo.csproj", "{E6A63BAC-B8E9-4636-A579-75291F90852A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowPropertyDemo", "..\ShadowPropertyDemo\ShadowPropertyDemo.csproj", "{7120D450-AC78-461A-8BC2-5010044E07BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneRelationDemo", "..\OnetoOneRelationDemo\OnetoOneRelationDemo.csproj", "{A7B9F416-8E3A-461C-AAE0-2805A087E1F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoManyRelationDemo", "..\OnetoManyRelationDemo\OnetoManyRelationDemo.csproj", "{9FA392DB-8F77-4FDC-B940-7DD478F6158D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManytoManyRelationDemo", "..\ManytoManyRelationDemo\ManytoManyRelationDemo.csproj", "{38AAE6EF-B1F2-4A1D-86DA-B93CD9E96CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71EE63FD-1F0F-45C5-AE27-38E88F959F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EE63FD-1F0F-45C5-AE27-38E88F959F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EE63FD-1F0F-45C5-AE27-38E88F959F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EE63FD-1F0F-45C5-AE27-38E88F959F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A63BAC-B8E9-4636-A579-75291F90852A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A63BAC-B8E9-4636-A579-75291F90852A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A63BAC-B8E9-4636-A579-75291F90852A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A63BAC-B8E9-4636-A579-75291F90852A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7120D450-AC78-461A-8BC2-5010044E07BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7120D450-AC78-461A-8BC2-5010044E07BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7120D450-AC78-461A-8BC2-5010044E07BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7120D450-AC78-461A-8BC2-5010044E07BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B9F416-8E3A-461C-AAE0-2805A087E1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B9F416-8E3A-461C-AAE0-2805A087E1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B9F416-8E3A-461C-AAE0-2805A087E1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B9F416-8E3A-461C-AAE0-2805A087E1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FA392DB-8F77-4FDC-B940-7DD478F6158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA392DB-8F77-4FDC-B940-7DD478F6158D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA392DB-8F77-4FDC-B940-7DD478F6158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA392DB-8F77-4FDC-B940-7DD478F6158D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AAE6EF-B1F2-4A1D-86DA-B93CD9E96CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AAE6EF-B1F2-4A1D-86DA-B93CD9E96CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AAE6EF-B1F2-4A1D-86DA-B93CD9E96CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AAE6EF-B1F2-4A1D-86DA-B93CD9E96CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CECB4D8A-2614-4AC2-82DC-ADD075C0D3DD}
+	EndGlobalSection
+EndGlobal
